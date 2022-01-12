@@ -1,0 +1,7 @@
+ID Bug
+Bug Summary – краткое описание
+Severity – серьезность
+Steps to reproduce  – шаги к воспроизведению
+Actual Result  – результат
+Expected Result – ожидаемый результат 
+attachment
