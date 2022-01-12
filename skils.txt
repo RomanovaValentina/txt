@@ -1,7 +1,7 @@
 git bush
 gitHud
 Postman
-Pethon[D[D[D[D[D[y[C[C[C[C
+Pethon
 SQL
 Dev Tools
 JSON, XML
