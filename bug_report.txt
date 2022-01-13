@@ -4,4 +4,4 @@ Severity – серьезность
 Steps to reproduce  – шаги к воспроизведению
 Actual Result  – результат
 Expected Result – ожидаемый результат 
-attachment
+attachment - фото, видео, скриншоты
