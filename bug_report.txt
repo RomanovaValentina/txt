@@ -1,7 +1,11 @@
-ID Bug
-Bug Summary – краткое описание
-Severity – серьезность
-Steps to reproduce  – шаги к воспроизведению
-Actual Result  – результат
-Expected Result – ожидаемый результат 
-attachment - фото, видео, скриншоты
+ID B-514
+Summary "On the main site when hovering in italics on the "start" button, the color is white"
+Severity – Trivial. S5
+Priority - low. P3
+Author - Romanova Valentina
+Steps to reproduce 
+hover over the "start" button
+OC Chrome Версия 97.0.4692.71
+Actual Result  – button "start" is white
+Expected Result – button "start" is blue
+
